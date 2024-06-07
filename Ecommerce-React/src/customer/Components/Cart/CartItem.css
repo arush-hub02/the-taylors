@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+  #pricelist {
+    padding-top: 1px;
+  }
+  #details {
+    p {
+      font-size: 1.35vh;
+    }
+  }
+}

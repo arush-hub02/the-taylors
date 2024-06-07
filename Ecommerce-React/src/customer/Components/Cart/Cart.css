@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+  #rightbox {
+    margin-top: 5vh;
+  }
+  #head {
+    padding-left: 2vh;
+  }
+  #card {
+    padding: 0 1.5vh;
+  }
+}
