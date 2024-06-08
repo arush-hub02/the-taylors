@@ -7,7 +7,7 @@ app.use(express.json())
 app.use(cors(
      {
         origin: ["https://the-taylors-by-arush.vercel.app"],
-        methods: ["POST", "GET"],
+        methods: ["POST", "GET", "OPTIONS","PATCH","DELETE","PUT"],
         credentials: true
     }
 ))
